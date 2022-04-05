@@ -8,17 +8,18 @@ The project is divided in frontend and backend
 ## Quick Start
 To run the project you need two terminal windows:
 
-Front end
+Back End
 ```
-cd client
+cd ./api
 npm start
 ```
 
-Back End
+Front end
 ```
-cd api
+cd ./client
 npm start
 ```
+
 ## Requirements
  + ReactJs
  + Express.js
